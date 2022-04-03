@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/big_project/led/Module.symvers := sed 's/ko$$/o/' /home/ubuntu/big_project/led/modules.order | scripts/mod/modpost -m  -E  -o /home/ubuntu/big_project/led/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/big_project/test/test.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/ubuntu/big_project/test/test.ko /home/ubuntu/big_project/test/test.o /home/ubuntu/big_project/test/test.mod.o;  true

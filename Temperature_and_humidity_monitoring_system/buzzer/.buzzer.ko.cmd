@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/big_project/buzzer/buzzer.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/ubuntu/big_project/buzzer/buzzer.ko /home/ubuntu/big_project/buzzer/buzzer.o /home/ubuntu/big_project/buzzer/buzzer.mod.o;  true

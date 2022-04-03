@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/big_project/si7006_1.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/ubuntu/big_project/si7006_1.ko /home/ubuntu/big_project/si7006_1.o /home/ubuntu/big_project/si7006_1.mod.o;  true
